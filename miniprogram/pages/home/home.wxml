@@ -1,0 +1,4 @@
+<!--miniprogram/pages/home/home.wxml-->
+<view class='homePage'>
+  首页
+</view>
